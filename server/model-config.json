@@ -33,7 +33,7 @@
     "public": false
   },
   "Account": {
-    "dataSource": "accountDS",
+    "dataSource": "db",
     "public": true
   }
 }
